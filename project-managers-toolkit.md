@@ -1,7 +1,7 @@
 # Crowdsourced Project Management Toolkit
 #### started 2/8/2013
 
-**Note** This document is based off of a crowdsourced Google Doc, created by the DLF Project Managers Group. All statements made are based off of testimonials and narratives written by contributors.
+**Note** This document is based off of a [crowdsourced Google Doc](https://docs.google.com/document/d/1aCZaScfh1VsvkOH4ksZDh6exzAH7n8_mMrpnw4yINcI/edit), created by the DLF Project Managers Group. All statements made are based off of testimonials and narratives written by contributors.
 
 **What?** A crowdsourced collection of information, tips, techniques, and tools for project managers working in libraries. PLEASE CONTRIBUTE.
 
@@ -143,7 +143,7 @@ This section contains a list of tools for project management, with pros and cons
 
 **Uses and Overview**
 
-Redmine[http://www.redmine.org] allows you to track issues, latest project news, and organize projects by members and contributors. You can associate files with given projects, create Gantt charts and calendars, and create wikis to document projects. Redmine has a [demo site](http://demo.redmine.org) that allows you to see how it looks in action.
+[Redmine](http://www.redmine.org) allows you to track issues, latest project news, and organize projects by members and contributors. You can associate files with given projects, create Gantt charts and calendars, and create wikis to document projects. Redmine has a [demo site](http://demo.redmine.org) that allows you to see how it looks in action.
 
 **Benefits:**
 
