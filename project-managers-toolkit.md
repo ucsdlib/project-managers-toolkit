@@ -1,5 +1,5 @@
 # Crowdsourced Project Management Toolkit
-#### started 2/8/2013
+#### updated Feb. 2016 by DLF Project Managers Steering Group
 
 **Note** This document is based off of a [crowdsourced Google Doc](https://docs.google.com/document/d/1aCZaScfh1VsvkOH4ksZDh6exzAH7n8_mMrpnw4yINcI/edit), created by the DLF Project Managers Group. All statements made are based off of testimonials and narratives written by contributors.
 
