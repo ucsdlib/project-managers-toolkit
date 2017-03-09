@@ -1,17 +1,9 @@
-# Crowdsourced Project Management Toolkit
-#### started 2/8/2013
+# UC San Diego Library Project Management Toolkit
+#### last updated 3/9/2017
 
-**Note** This document is based off of a [crowdsourced Google Doc](https://docs.google.com/document/d/1aCZaScfh1VsvkOH4ksZDh6exzAH7n8_mMrpnw4yINcI/edit), created by the DLF Project Managers Group. All statements made are based off of testimonials and narratives written by contributors.
+**Note** This toolkit contributes to the Digital Library Federation (DLF) Project Managers Group.  Content provided here is intended to be shared.  See the [Digital Library Federation Project Managers Group page](http://www.diglib.org/groups/pmg/) for more information, including past meeting notes.
 
-**What?** A crowdsourced collection of information, tips, techniques, and tools for project managers working in libraries. PLEASE CONTRIBUTE.
-
-**Why?** Whether we realize it or not, librarians and library staff are managing projects all the time. These may be informal or formal projects, or we might not think of them as projects at all. Just the same, we could all stand to take a more organized and structured approach to planning and accomplishing our project work. Much of the project management literature and training frequently emphasizes a corporate perspective, which is not applicable to a library setting.
-
-**Who?** Anyone who wants to contribute. And you can post anonymously if you prefer.
-
-**How?** Be generous with your knowledge and be respectful of what others have written. Share your experience and help others to learn from both your successes and failures. 
-
-See the [Digital Library Federation Project Managers Group page](http://www.diglib.org/groups/pmg/) for more information, including past meeting notes. 
+The Project Managers’ Toolkit is designed to give managers the tools they will need to be more effective in meeting project goals.  Included are steps, tools, and templates needed to fast track your projects and initiatives.
 
 ## Contents
 
