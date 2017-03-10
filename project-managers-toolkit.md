@@ -6,6 +6,9 @@
 The Project Managers’ Toolkit is designed to give managers the tools they will need to be more effective in meeting project goals.  Included are steps, tools, and templates needed to fast track your projects and initiatives.
 
 
+  ![PM Process Overview](/DLP_PM.jpg)
+
+
 ##Steps:
 To start, review the [DLDP Project Manager Roles and Responsibilities](./pm-roles-and-responsibilities.md).
 
