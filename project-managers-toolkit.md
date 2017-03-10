@@ -10,7 +10,7 @@ The Project Managers’ Toolkit is designed to give managers the tools they will
 
 
 ##Steps:
-To start, review the [DLDP Project Manager Roles and Responsibilities](./pm-roles-and-responsibilities.md).
+To start, review the [DLDP Project Manager Roles and Responsibilities](/pm-roles-and-responsibilities.md).
 
 1. Initiation
   - Propose a project using the DLDP Project Proposal Process
