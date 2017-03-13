@@ -1,6 +1,8 @@
 # UC San Diego Library Project Management Toolkit
 
+
 #### last updated 3/10/2017
+
 
 
 **Note** This toolkit contributes to the Digital Library Federation (DLF) Project Managers Group.  Content provided here is intended to be shared.  See the [Digital Library Federation Project Managers Group page](http://www.diglib.org/groups/pmg/) for more information, including past meeting notes.
@@ -12,7 +14,7 @@ The Project Managers’ Toolkit is designed to give managers the tools they will
 
 
 ##Steps:
-To start, review the [DLDP Project Manager Roles and Responsibilities](./project-managers-toolkit/pm-roles-and-responsibilities).
+To start, review the [DLDP Project Manager Roles and Responsibilities](./pm-roles-and-responsibilities.md).
 
 1. Initiation
   - Propose a project using the DLDP Project Proposal Process
@@ -56,6 +58,7 @@ To start, review the [DLDP Project Manager Roles and Responsibilities](./project
       * Sample Collection Promotion Info Sheet
 
 Send comments & suggestions to [dlp@ucsd.edu](mailto:dlp@ucsd.edu).  Thanks!
+
 
 |Testing|Tables|
 |---|---|
