@@ -1,9 +1,16 @@
 # UC San Diego Library Project Management Toolkit
-#### last updated 3/9/2017
+
+
+#### last updated 3/10/2017
+
+
 
 **Note** This toolkit contributes to the Digital Library Federation (DLF) Project Managers Group.  Content provided here is intended to be shared.  See the [Digital Library Federation Project Managers Group page](http://www.diglib.org/groups/pmg/) for more information, including past meeting notes.
 
 The Project Managers’ Toolkit is designed to give managers the tools they will need to be more effective in meeting project goals.  Included are steps, tools, and templates needed to fast track your projects and initiatives.
+
+
+  ![PM Process Overview](/DLP_PM.jpg)
 
 
 ##Steps:
@@ -51,3 +58,8 @@ To start, review the [DLDP Project Manager Roles and Responsibilities](./pm-role
       * Sample Collection Promotion Info Sheet
 
 Send comments & suggestions to [dlp@ucsd.edu](mailto:dlp@ucsd.edu).  Thanks!
+
+
+|Testing|Tables|
+|---|---|
+|pretty|ponies|
