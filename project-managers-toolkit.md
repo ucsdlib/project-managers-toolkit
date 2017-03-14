@@ -18,7 +18,7 @@ To start, review the [DLDP Project Manager Roles and Responsibilities](/docs/pm-
 
 1. **Initiation**
   - Propose a project using the DLDP Project Proposal Process
-  - Fill out the Project Proposal Form and Checklist for Determing Access Options to define the scope and evaluate whether there are the resources to do the project.
+  - Fill out the [Project Proposal Form](/docs/PPP_projproposal_form.docx) and [Checklist for Determing Access Options](/docs/PPP_Checklist_AccessOptions(1).docx) to define the scope and evaluate whether there are the resources to do the project.
 2. **Planning**
   * Getting Started
   * Once the project proposal is approved, fill out the Project Plan to further define the project.
