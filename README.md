@@ -6,4 +6,4 @@ This document is in process and will be edited as more tools and resources are m
 # registry 
 [Florida State University PM Toolkit](https://github.com/fsulib/project-managers-toolkit/blob/master/project-managers-toolkit.md)
 
-[UC San Diego Library](https://github.com/ucsdlib/project-managers-toolkit) : Currently in process at https://github.com/colleenfgarcia/project-managers-toolkit/
+[UC San Diego Library](https://github.com/ucsdlib/project-managers-toolkit)
