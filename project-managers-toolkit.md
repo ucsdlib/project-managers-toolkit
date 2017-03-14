@@ -13,13 +13,13 @@ The Project Managers’ Toolkit is designed to give managers the tools they will
   ![PM Process Overview](/DLP_PM.jpg)
 
 
-##Steps:
-To start, review the [DLDP Project Manager Roles and Responsibilities](project-managers-toolkit/pm-roles-and-responsibilities).
+## Steps:
+To start, review the [DLDP Project Manager Roles and Responsibilities](/docs/pm-roles-and-responsibilities.md).
 
-1. Initiation
+1. **Initiation**
   - Propose a project using the DLDP Project Proposal Process
   - Fill out the Project Proposal Form and Checklist for Determing Access Options to define the scope and evaluate whether there are the resources to do the project.
-2. Planning
+2. **Planning**
   * Getting Started
   * Once the project proposal is approved, fill out the Project Plan to further define the project.
   * Hold a Project Kick-off Meeting.
@@ -28,7 +28,7 @@ To start, review the [DLDP Project Manager Roles and Responsibilities](project-m
     * Format Standards; Video and Audio Specs
     * If using an outside vendor, Obtaining a Request for Quotation (RFQ)
     * Metadata Creation Tool Comparison Chart
-3. Implementation
+3. **Implementation**
   * Capture the project details and monitor progress in Confluence/LiSN.
   * Monitor & control the project by updating and maintaining the project plan.
   * Phases:
@@ -47,7 +47,7 @@ To start, review the [DLDP Project Manager Roles and Responsibilities](project-m
          * JIRA workflow for standard input stream ingest
          * JIRA workflow for custom batch ingest
          * QA/QC Process
-4. Closing
+4. **Closing**
   * Create a collection MARC record (if applicable).  See CLR/Roger Task Force - Project Scenarios and Recommendations (DRAFT)
   * Finalize the project plan (export and store in Pdrive)
   * Clear out the staging area.  File management
@@ -57,7 +57,7 @@ To start, review the [DLDP Project Manager Roles and Responsibilities](project-m
       * Promotions Checklist
       * Sample Collection Promotion Info Sheet
 
-Send comments & suggestions to [dlp@ucsd.edu](mailto:dlp@ucsd.edu).  Thanks!
+*Send comments & suggestions to [dlp@ucsd.edu](mailto:dlp@ucsd.edu).  Thanks!*
 
 
 |Testing|Tables|
