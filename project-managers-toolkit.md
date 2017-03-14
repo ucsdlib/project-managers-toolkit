@@ -63,3 +63,7 @@ To start, review the [DLDP Project Manager Roles and Responsibilities](/docs/pm-
 |Testing|Tables|
 |---|---|
 |pretty|ponies|
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2HfcFbCk6IA
+" target="_blank"><img src="http://img.youtube.com/vi/2HfcFbCk6IA/0.jpg" 
+alt="Digital Collections at the UC San Diego Library: Search Tutorial" width="500" height="315" border="10" /></a>
