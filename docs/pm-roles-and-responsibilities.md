@@ -1,4 +1,4 @@
-#DLDP Project Manager Roles and Responsibilities
+# DLDP Project Manager Roles and Responsibilities
 
 1. Provide final review of project proposals, contacting proposal submitters with any additional questions and working with DLP to resolve outstanding questions.
 2. Develop preliminary project schedule, detailing project goals, milestones, timelines, issues and risks, status reports. See Baca Project Plan as an example.
